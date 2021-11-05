@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevloper_wiki=self.webpackChunkdevloper_wiki||[]).push([[141],{2516:function(e){e.exports=JSON.parse('{"allTagsPath":"/devloper-wiki/blog/tags","slug":"/devloper-wiki/blog/tags/facebook","name":"facebook","count":1,"permalink":"/devloper-wiki/blog/tags/facebook"}')}}]);

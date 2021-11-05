@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevloper_wiki=self.webpackChunkdevloper_wiki||[]).push([[447],{6533:function(e){e.exports=JSON.parse('{"allTagsPath":"/devloper-wiki/blog/tags","slug":"/devloper-wiki/blog/tags/hello","name":"hello","count":2,"permalink":"/devloper-wiki/blog/tags/hello"}')}}]);

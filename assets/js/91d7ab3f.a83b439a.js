@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevloper_wiki=self.webpackChunkdevloper_wiki||[]).push([[109],{3382:function(e){e.exports=JSON.parse('{"allTagsPath":"/devloper-wiki/blog/tags","slug":"/devloper-wiki/blog/tags/hola","name":"hola","count":1,"permalink":"/devloper-wiki/blog/tags/hola"}')}}]);
